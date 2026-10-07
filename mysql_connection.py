@@ -3,7 +3,7 @@ import pandas as pd
 from sqlalchemy import create_engine, text
 
 # 'Dell@123' me '@' ko '%40' likha hai URL encoding ke liye
-engine = create_engine("mysql+pymysql://root:Dell%40123@localhost/expense_analytics")
+engine = create_engine("mysql+pymysql://root:Dell%6666@localhost/expense_analytics")
 
 try:
     with engine.connect() as connection:
