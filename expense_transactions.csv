@@ -1,0 +1,52 @@
+transaction_id,transaction_date,transaction_type,category,sub_category,amount,payment_method,merchant,description,location,year_month,day_name,is_weekend
+1001,2026-09-24,Expense,Food,Lunch,180.0,UPI,Restaurant,Lunch with friends,Hyderabad,2026-09,Thursday,Weekday
+1002,2026-09-01,Income,Salary,Part-time,8000.0,UPI,Employer,Monthly income,Hyderabad,2026-09,Tuesday,Weekday
+1003,2026-09-01,Expense,Food,Groceries,1200.5,UPI,Dmart,Monthly groceries,Hyderabad,2026-09,Tuesday,Weekday
+1004,2026-09-02,Expense,Transport,Bus,450.0,Cash,Tsrtc,College travel,Hyderabad,2026-09,Wednesday,Weekday
+1005,2026-09-03,Expense,Education,Course,750.0,UPI,Online Course,Python learning,Hyderabad,2026-09,Thursday,Weekday
+1006,2026-09-05,Expense,Food,Restaurant,350.0,UPI,Restaurant,Dinner,Hyderabad,2026-09,Saturday,Weekend
+1007,2026-09-07,Expense,Shopping,Clothes,1200.0,Card,Myntra,Clothing purchase,Hyderabad,2026-09,Monday,Weekday
+1008,2026-09-10,Expense,Bills,Mobile,399.0,UPI,Airtel,Mobile recharge,Hyderabad,2026-09,Thursday,Weekday
+1009,2026-09-12,Expense,Entertainment,Movie,300.0,UPI,Bookmyshow,Movie ticket,Hyderabad,2026-09,Saturday,Weekend
+1010,2026-09-15,Income,Freelance,Project,2500.0,UPI,Client,Freelance income,Hyderabad,2026-09,Tuesday,Weekday
+1011,2026-09-18,Expense,Transport,Auto,180.0,Cash,Auto Driver,Travel,Hyderabad,2026-09,Friday,Weekday
+1012,2026-06-02,Income,Salary,Part-time,8000.0,UPI,Employer,Monthly income,Hyderabad,2026-06,Tuesday,Weekday
+1013,2026-06-03,Expense,Rent,Room Rent,3500.0,UPI,Landlord,Monthly rent,Hyderabad,2026-06,Wednesday,Weekday
+1014,2026-06-04,Expense,Food,Groceries,950.0,UPI,Dmart,Groceries,Hyderabad,2026-06,Thursday,Weekday
+1015,2026-06-06,Expense,Transport,Bus,300.0,Cash,Tsrtc,College travel,Hyderabad,2026-06,Saturday,Weekend
+1016,2026-06-08,Expense,Education,Books,650.0,Card,Amazon,Study material,Hyderabad,2026-06,Monday,Weekday
+1017,2026-06-10,Expense,Bills,Internet,599.0,UPI,Jio,Internet bill,Hyderabad,2026-06,Wednesday,Weekday
+1018,2026-06-13,Expense,Food,Restaurant,450.0,UPI,Restaurant,Dinner,Hyderabad,2026-06,Saturday,Weekend
+1019,2026-06-18,Expense,Healthcare,Medicine,320.0,Cash,Medical Store,Medicines,Hyderabad,2026-06,Thursday,Weekday
+1020,2026-06-22,Expense,Shopping,Clothes,1100.0,Card,Myntra,Clothes,Hyderabad,2026-06,Monday,Weekday
+1021,2026-06-27,Income,Freelance,Project,1800.0,UPI,Client,Freelance work,Hyderabad,2026-06,Saturday,Weekend
+1022,2026-07-01,Income,Salary,Part-time,8000.0,UPI,Employer,Monthly income,Hyderabad,2026-07,Wednesday,Weekday
+1023,2026-07-02,Expense,Rent,Room Rent,3500.0,UPI,Landlord,Monthly rent,Hyderabad,2026-07,Thursday,Weekday
+1024,2026-07-04,Expense,Food,Groceries,1350.0,UPI,Dmart,Groceries,Hyderabad,2026-07,Saturday,Weekend
+1025,2026-07-06,Expense,Transport,Bus,420.0,Cash,Tsrtc,College travel,Hyderabad,2026-07,Monday,Weekday
+1026,2026-07-08,Expense,Entertainment,Movie,550.0,UPI,Bookmyshow,Movie and snacks,Hyderabad,2026-07,Wednesday,Weekday
+1027,2026-07-11,Expense,Shopping,Shoes,1800.0,Card,Flipkart,New shoes,Hyderabad,2026-07,Saturday,Weekend
+1028,2026-07-14,Expense,Food,Restaurant,650.0,UPI,Restaurant,Dinner with friends,Hyderabad,2026-07,Tuesday,Weekday
+1029,2026-07-18,Expense,Personal Care,Grooming,400.0,Cash,Salon,Haircut,Hyderabad,2026-07,Saturday,Weekend
+1030,2026-07-23,Expense,Education,Course,900.0,UPI,Online Course,Data analytics course,Hyderabad,2026-07,Thursday,Weekday
+1031,2026-07-28,Income,Freelance,Project,2200.0,UPI,Client,Freelance income,Hyderabad,2026-07,Tuesday,Weekday
+1032,2026-08-01,Income,Salary,Part-time,8000.0,UPI,Employer,Monthly income,Hyderabad,2026-08,Saturday,Weekend
+1033,2026-08-02,Expense,Rent,Room Rent,3500.0,UPI,Landlord,Monthly rent,Hyderabad,2026-08,Sunday,Weekend
+1034,2026-08-05,Expense,Food,Groceries,1450.0,UPI,Dmart,Groceries,Hyderabad,2026-08,Wednesday,Weekday
+1035,2026-08-07,Expense,Transport,Auto,350.0,Cash,Auto Driver,College travel,Hyderabad,2026-08,Friday,Weekday
+1036,2026-08-09,Expense,Bills,Electricity,850.0,UPI,Tsspdcl,Electricity bill,Hyderabad,2026-08,Sunday,Weekend
+1037,2026-08-12,Expense,Entertainment,Movie,700.0,UPI,Bookmyshow,Movie,Hyderabad,2026-08,Wednesday,Weekday
+1038,2026-08-15,Expense,Shopping,Electronics,2400.0,Card,Amazon,Headphones,Hyderabad,2026-08,Saturday,Weekend
+1039,2026-08-19,Expense,Food,Restaurant,800.0,UPI,Restaurant,Dinner,Hyderabad,2026-08,Wednesday,Weekday
+1040,2026-08-23,Expense,Healthcare,Medicine,450.0,Cash,Medical Store,Medicines,Hyderabad,2026-08,Sunday,Weekend
+1041,2026-08-28,Income,Freelance,Project,3000.0,UPI,Client,Freelance income,Hyderabad,2026-08,Friday,Weekday
+1042,2026-09-02,Expense,Rent,Room Rent,3500.0,UPI,Landlord,Monthly rent,Hyderabad,2026-09,Wednesday,Weekday
+1043,2026-09-04,Expense,Food,Groceries,1600.0,UPI,Dmart,Groceries,Hyderabad,2026-09,Friday,Weekday
+1044,2026-09-06,Expense,Transport,Bus,500.0,Cash,Tsrtc,College travel,Hyderabad,2026-09,Sunday,Weekend
+1045,2026-09-09,Expense,Education,Books,850.0,Card,Amazon,Books,Hyderabad,2026-09,Wednesday,Weekday
+1046,2026-09-13,Expense,Food,Restaurant,900.0,UPI,Restaurant,Dinner,Hyderabad,2026-09,Sunday,Weekend
+1047,2026-09-17,Expense,Shopping,Clothes,2200.0,Card,Myntra,Clothes,Hyderabad,2026-09,Thursday,Weekday
+1048,2026-09-20,Expense,Bills,Internet,599.0,UPI,Jio,Internet bill,Hyderabad,2026-09,Sunday,Weekend
+1049,2026-09-23,Expense,Personal Care,Grooming,500.0,Cash,Salon,Grooming,Hyderabad,2026-09,Wednesday,Weekday
+1050,2026-09-25,Income,Freelance,Project,3500.0,UPI,Client,Freelance income,Hyderabad,2026-09,Friday,Weekday
+1051,2026-09-28,Expense,Entertainment,Movie,650.0,UPI,Bookmyshow,Movie,Hyderabad,2026-09,Monday,Weekday
